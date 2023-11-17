@@ -145,6 +145,7 @@ Steps:
 | az-delivery-devkit-v4 | 4 | 0x2b0000 |
 | lilygo-ttgo-t-display | 8 | 0x670000 |
 | lilygo-t-display-s3 | 16 | 0xc90000 |
+| lilygo-t-display-s3-amoled| 16 | 0xc????? |
 | adafruit_feathrer_esp32_v2 | 8 | 0x670000 |
 
 # Issues, Ideas And Bugs
